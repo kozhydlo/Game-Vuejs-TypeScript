@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref } from 'vue'
-import type { GameStatus } from '../types/GameStatus'
+import type { GameStatus } from '../Types/GameStatus'
 
 interface Props {
   word: string
